@@ -1392,7 +1392,7 @@ input, select, textarea {
 		body.is-touch .poptrox-popup .nav-previous,
 		body.is-touch .poptrox-popup .closer {
 			opacity: 1.0 !important;
-		}
+		} 
 
 		@media screen and (max-width: 736px) {
 
@@ -1432,7 +1432,7 @@ input, select, textarea {
 		margin: 0 auto 2em auto;
 	}
 
-		.gallery article {
+		/* .gallery article {
 			-moz-transition: -moz-transform 1s ease, opacity 1s ease;
 			-webkit-transition: -webkit-transform 1s ease, opacity 1s ease;
 			-ms-transition: -ms-transform 1s ease, opacity 1s ease;
@@ -1444,7 +1444,7 @@ input, select, textarea {
 			width: 50%;
 			position: relative;
 			opacity: 1.0;
-		}
+		} */
 
 			.gallery article .image {
 				margin: 0;
@@ -1822,7 +1822,7 @@ input, select, textarea {
 					width: 100%;
 				}
 
-		}
+		} 
 
 /* Header */
 
